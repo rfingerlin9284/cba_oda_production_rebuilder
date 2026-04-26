@@ -1,0 +1,1074 @@
+{
+  "audit_date": "2026-04-26T14:01:00.990657",
+  "owner": "rfingerlin9284",
+  "total_repos": 24,
+  "repositories": [
+    {
+      "name": "cba_oda_production_rebuilder",
+      "full_name": "rfingerlin9284/cba_oda_production_rebuilder",
+      "description": "full out back up of current production version of algo oanda forex and coinbase crypto futures bot",
+      "html_url": "https://github.com/rfingerlin9284/cba_oda_production_rebuilder",
+      "created_at": "2026-04-24T00:06:53Z",
+      "updated_at": "2026-04-26T13:34:14Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 2,
+      "is_recent": true
+    },
+    {
+      "name": "rfing_oanda_cba_restored_edge_04142026",
+      "full_name": "rfingerlin9284/rfing_oanda_cba_restored_edge_04142026",
+      "description": null,
+      "html_url": "https://github.com/rfingerlin9284/rfing_oanda_cba_restored_edge_04142026",
+      "created_at": "2026-04-21T04:51:25Z",
+      "updated_at": "2026-04-21T05:13:02Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 5,
+      "is_recent": true
+    },
+    {
+      "name": "coinbase_clean_rbotz",
+      "full_name": "rfingerlin9284/coinbase_clean_rbotz",
+      "description": "coinbase bot",
+      "html_url": "https://github.com/rfingerlin9284/coinbase_clean_rbotz",
+      "created_at": "2026-04-07T02:26:17Z",
+      "updated_at": "2026-04-10T02:11:24Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 19,
+      "is_recent": true
+    },
+    {
+      "name": "COINBASE_GIT_CLEAN",
+      "full_name": "rfingerlin9284/COINBASE_GIT_CLEAN",
+      "description": null,
+      "html_url": "https://github.com/rfingerlin9284/COINBASE_GIT_CLEAN",
+      "created_at": "2026-03-29T03:37:04Z",
+      "updated_at": "2026-03-29T03:37:05Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 28,
+      "is_recent": true
+    },
+    {
+      "name": "OANDA_GIT_CLEAN",
+      "full_name": "rfingerlin9284/OANDA_GIT_CLEAN",
+      "description": null,
+      "html_url": "https://github.com/rfingerlin9284/OANDA_GIT_CLEAN",
+      "created_at": "2026-03-29T03:18:39Z",
+      "updated_at": "2026-04-08T02:22:49Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 1,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 28,
+      "is_recent": true
+    },
+    {
+      "name": "New_rbtz_pheonix",
+      "full_name": "rfingerlin9284/New_rbtz_pheonix",
+      "description": "newest most advanced tuned prototype based off the rbotzilla_pheonix repo",
+      "html_url": "https://github.com/rfingerlin9284/New_rbtz_pheonix",
+      "created_at": "2026-03-14T23:09:36Z",
+      "updated_at": "2026-03-15T16:49:55Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 42,
+      "is_recent": true
+    },
+    {
+      "name": "rbotzilla_pheonix",
+      "full_name": "rfingerlin9284/rbotzilla_pheonix",
+      "description": "most recent version 3.3.2026",
+      "html_url": "https://github.com/rfingerlin9284/rbotzilla_pheonix",
+      "created_at": "2026-03-03T05:02:48Z",
+      "updated_at": "2026-03-12T15:58:02Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 54,
+      "is_recent": true
+    },
+    {
+      "name": "rbotzilla_n_team",
+      "full_name": "rfingerlin9284/rbotzilla_n_team",
+      "description": "new verddion",
+      "html_url": "https://github.com/rfingerlin9284/rbotzilla_n_team",
+      "created_at": "2026-02-06T03:14:48Z",
+      "updated_at": "2026-02-06T03:14:52Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 79,
+      "is_recent": true
+    },
+    {
+      "name": "MULTIBROKER_ESSENTIALS_ONLY",
+      "full_name": "rfingerlin9284/MULTIBROKER_ESSENTIALS_ONLY",
+      "description": "CLEANED UP BARE MIN ESSENTIAL FILES ",
+      "html_url": "https://github.com/rfingerlin9284/MULTIBROKER_ESSENTIALS_ONLY",
+      "created_at": "2026-02-01T19:59:08Z",
+      "updated_at": "2026-02-01T20:22:39Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 83,
+      "is_recent": true
+    },
+    {
+      "name": "multibroker_oanda_deployment_v1",
+      "full_name": "rfingerlin9284/multibroker_oanda_deployment_v1",
+      "description": "predeploy multi broker version algo trading open ai backed forex trading system.",
+      "html_url": "https://github.com/rfingerlin9284/multibroker_oanda_deployment_v1",
+      "created_at": "2026-02-01T03:03:48Z",
+      "updated_at": "2026-02-01T03:06:18Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 84,
+      "is_recent": true
+    },
+    {
+      "name": "MUILTIBROKER_OANDA_REPO",
+      "full_name": "rfingerlin9284/MUILTIBROKER_OANDA_REPO",
+      "description": "LATEST MOST ADVANCED RBOTZILLA REPO",
+      "html_url": "https://github.com/rfingerlin9284/MUILTIBROKER_OANDA_REPO",
+      "created_at": "2026-01-24T16:20:09Z",
+      "updated_at": "2026-01-25T08:11:12Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 91,
+      "is_recent": false
+    },
+    {
+      "name": "multi_broker_rbtz",
+      "full_name": "rfingerlin9284/multi_broker_rbtz",
+      "description": "multi broker rbtz system",
+      "html_url": "https://github.com/rfingerlin9284/multi_broker_rbtz",
+      "created_at": "2026-01-07T15:00:59Z",
+      "updated_at": "2026-02-06T05:23:52Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 108,
+      "is_recent": false
+    },
+    {
+      "name": "live_lean_pheonix",
+      "full_name": "rfingerlin9284/live_lean_pheonix",
+      "description": "oanda full deploy ready ",
+      "html_url": "https://github.com/rfingerlin9284/live_lean_pheonix",
+      "created_at": "2025-12-04T19:57:42Z",
+      "updated_at": "2026-02-24T16:09:43Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 7,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 142,
+      "is_recent": false
+    },
+    {
+      "name": "rick_pheonix_gemini_v1",
+      "full_name": "rfingerlin9284/rick_pheonix_gemini_v1",
+      "description": "gemini build with google studio",
+      "html_url": "https://github.com/rfingerlin9284/rick_pheonix_gemini_v1",
+      "created_at": "2025-12-03T18:42:42Z",
+      "updated_at": "2025-12-03T18:42:46Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 143,
+      "is_recent": false
+    },
+    {
+      "name": "Rbotzilla_pheonix_v1",
+      "full_name": "rfingerlin9284/Rbotzilla_pheonix_v1",
+      "description": "multi platform trading system",
+      "html_url": "https://github.com/rfingerlin9284/Rbotzilla_pheonix_v1",
+      "created_at": "2025-12-01T13:29:30Z",
+      "updated_at": "2026-02-22T02:09:14Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 146,
+      "is_recent": false
+    },
+    {
+      "name": "FROZEN-V2",
+      "full_name": "rfingerlin9284/FROZEN-V2",
+      "description": "further robost and upgraded with strategie core logic files plus many more",
+      "html_url": "https://github.com/rfingerlin9284/FROZEN-V2",
+      "created_at": "2025-11-23T03:16:47Z",
+      "updated_at": "2025-11-25T04:40:47Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 154,
+      "is_recent": false
+    },
+    {
+      "name": "RICK_LIVE_CLEAN_FROZEN",
+      "full_name": "rfingerlin9284/RICK_LIVE_CLEAN_FROZEN",
+      "description": "golden version",
+      "html_url": "https://github.com/rfingerlin9284/RICK_LIVE_CLEAN_FROZEN",
+      "created_at": "2025-11-21T10:38:08Z",
+      "updated_at": "2025-11-21T10:58:33Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 156,
+      "is_recent": false
+    },
+    {
+      "name": "new_RCL_rebuild",
+      "full_name": "rfingerlin9284/new_RCL_rebuild",
+      "description": "rebuild and clean up of rick clean live version",
+      "html_url": "https://github.com/rfingerlin9284/new_RCL_rebuild",
+      "created_at": "2025-11-17T17:15:06Z",
+      "updated_at": "2025-11-18T03:06:42Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 159,
+      "is_recent": false
+    },
+    {
+      "name": "RBOTZILLA_FINAL_v001",
+      "full_name": "rfingerlin9284/RBOTZILLA_FINAL_v001",
+      "description": "final autonomous forex and crypto trading system",
+      "html_url": "https://github.com/rfingerlin9284/RBOTZILLA_FINAL_v001",
+      "created_at": "2025-10-14T21:08:13Z",
+      "updated_at": "2025-10-14T21:19:54Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 193,
+      "is_recent": false
+    },
+    {
+      "name": "R_BOTzilla_live_prototype-",
+      "full_name": "rfingerlin9284/R_BOTzilla_live_prototype-",
+      "description": "live market oanda and crypto algo ai agent prompt controlled trading system",
+      "html_url": "https://github.com/rfingerlin9284/R_BOTzilla_live_prototype-",
+      "created_at": "2025-09-24T02:53:23Z",
+      "updated_at": "2025-09-24T02:54:56Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 214,
+      "is_recent": false
+    },
+    {
+      "name": "rick_clean_live",
+      "full_name": "rfingerlin9284/rick_clean_live",
+      "description": "rick_clean_live",
+      "html_url": "https://github.com/rfingerlin9284/rick_clean_live",
+      "created_at": "2025-09-22T20:30:59Z",
+      "updated_at": "2026-03-17T05:01:18Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 1,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 215,
+      "is_recent": false
+    },
+    {
+      "name": "R_H_UNI",
+      "full_name": "rfingerlin9284/R_H_UNI",
+      "description": "UNIBOT JUST COINBASE AND OANDA",
+      "html_url": "https://github.com/rfingerlin9284/R_H_UNI",
+      "created_at": "2025-09-22T10:23:59Z",
+      "updated_at": "2026-02-22T02:15:13Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 216,
+      "is_recent": false
+    },
+    {
+      "name": "rick_live_prototype",
+      "full_name": "rfingerlin9284/rick_live_prototype",
+      "description": "FIRST PROTOTYPE",
+      "html_url": "https://github.com/rfingerlin9284/rick_live_prototype",
+      "created_at": "2025-09-10T11:57:59Z",
+      "updated_at": "2025-11-11T04:11:01Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 228,
+      "is_recent": false
+    },
+    {
+      "name": "OANDA_CBA_UNIBOT",
+      "full_name": "rfingerlin9284/OANDA_CBA_UNIBOT",
+      "description": "FIRST PROTOTYPE",
+      "html_url": "https://github.com/rfingerlin9284/OANDA_CBA_UNIBOT",
+      "created_at": "2025-08-10T13:21:17Z",
+      "updated_at": "2025-08-12T15:38:05Z",
+      "pushed_at": null,
+      "size": 0,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "default_branch": "main",
+      "archived": false,
+      "private": false,
+      "age_days": 259,
+      "is_recent": false
+    }
+  ],
+  "scores": [
+    {
+      "repo_name": "rfing_oanda_cba_restored_edge_04142026",
+      "scores": {
+        "documented_performance": 80.0,
+        "code_quality": 0.0,
+        "feature_completeness": 30.0,
+        "maturity": 45.0,
+        "documentation": 30,
+        "total": 41.25
+      },
+      "ranking": {
+        "rank": 1,
+        "percentile": 100.0
+      },
+      "notes": {
+        "performance": [
+          "High documented balance: $7,000",
+          "Has freeze manifest (performance snapshot)",
+          "Explicitly mentions 'edge' in name/description"
+        ],
+        "quality": [],
+        "maturity": [
+          "Tagged as 'frozen'",
+          "Explicitly frozen (no active development)"
+        ]
+      }
+    },
+    {
+      "repo_name": "RICK_LIVE_CLEAN_FROZEN",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 20.0,
+        "maturity": 90.0,
+        "documentation": 100,
+        "total": 38.5
+      },
+      "ranking": {
+        "rank": 2,
+        "percentile": 95.83
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'frozen'",
+          "Tagged as 'clean'",
+          "Tagged as 'golden'",
+          "Explicitly frozen (no active development)",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "cba_oda_production_rebuilder",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 40.0,
+        "maturity": 50.0,
+        "documentation": 80,
+        "total": 35.5
+      },
+      "ranking": {
+        "rank": 3,
+        "percentile": 91.67
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'production'",
+          "Marked as production-ready",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "FROZEN-V2",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 10.0,
+        "maturity": 60.0,
+        "documentation": 100,
+        "total": 31.5
+      },
+      "ranking": {
+        "rank": 4,
+        "percentile": 87.5
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'frozen'",
+          "Explicitly frozen (no active development)",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "RBOTZILLA_FINAL_v001",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 30.0,
+        "maturity": 15.0,
+        "documentation": 100,
+        "total": 29.75
+      },
+      "ranking": {
+        "rank": 5,
+        "percentile": 83.33
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "new_RCL_rebuild",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 20.0,
+        "maturity": 30.0,
+        "documentation": 100,
+        "total": 29.5
+      },
+      "ranking": {
+        "rank": 6,
+        "percentile": 79.17
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'clean'",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "coinbase_clean_rbotz",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 20.0,
+        "maturity": 30.0,
+        "documentation": 80,
+        "total": 27.5
+      },
+      "ranking": {
+        "rank": 7,
+        "percentile": 75.0
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'clean'",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "rick_clean_live",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 10.0,
+        "maturity": 30.0,
+        "documentation": 100,
+        "total": 27.0
+      },
+      "ranking": {
+        "rank": 8,
+        "percentile": 70.83
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'clean'",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "multibroker_oanda_deployment_v1",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 30.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 26.0
+      },
+      "ranking": {
+        "rank": 9,
+        "percentile": 66.67
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "R_H_UNI",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 30.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 26.0
+      },
+      "ranking": {
+        "rank": 10,
+        "percentile": 62.5
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "OANDA_CBA_UNIBOT",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 30.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 26.0
+      },
+      "ranking": {
+        "rank": 11,
+        "percentile": 58.33
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "rick_live_prototype",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 10.0,
+        "maturity": 15.0,
+        "documentation": 100,
+        "total": 24.75
+      },
+      "ranking": {
+        "rank": 12,
+        "percentile": 54.17
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "MULTIBROKER_ESSENTIALS_ONLY",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 0.0,
+        "maturity": 30.0,
+        "documentation": 100,
+        "total": 24.5
+      },
+      "ranking": {
+        "rank": 13,
+        "percentile": 50.0
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'clean'",
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "OANDA_GIT_CLEAN",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 20.0,
+        "maturity": 25.0,
+        "documentation": 50,
+        "total": 23.75
+      },
+      "ranking": {
+        "rank": 14,
+        "percentile": 45.83
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Tagged as 'clean'",
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "rbotzilla_pheonix",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 20.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 23.5
+      },
+      "ranking": {
+        "rank": 15,
+        "percentile": 41.67
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "R_BOTzilla_live_prototype-",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 50.0,
+        "maturity": 15.0,
+        "documentation": 80,
+        "total": 22.75
+      },
+      "ranking": {
+        "rank": 16,
+        "percentile": 37.5
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "New_rbtz_pheonix",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 10.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 21.0
+      },
+      "ranking": {
+        "rank": 17,
+        "percentile": 33.33
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "Rbotzilla_pheonix_v1",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 10.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 21.0
+      },
+      "ranking": {
+        "rank": 18,
+        "percentile": 29.17
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "live_lean_pheonix",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 40.0,
+        "maturity": 15.0,
+        "documentation": 80,
+        "total": 20.25
+      },
+      "ranking": {
+        "rank": 19,
+        "percentile": 25.0
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Comprehensive documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "multi_broker_rbtz",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 50.0,
+        "feature_completeness": 0.0,
+        "maturity": 10.0,
+        "documentation": 70,
+        "total": 18.5
+      },
+      "ranking": {
+        "rank": 20,
+        "percentile": 20.83
+      },
+      "notes": {
+        "performance": [],
+        "quality": [
+          "Has error handling (try/except)",
+          "Has logging infrastructure"
+        ],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "MUILTIBROKER_OANDA_REPO",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 20.0,
+        "maturity": 10.0,
+        "documentation": 50,
+        "total": 11.5
+      },
+      "ranking": {
+        "rank": 21,
+        "percentile": 16.67
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "COINBASE_GIT_CLEAN",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 20.0,
+        "maturity": 15.0,
+        "documentation": 30,
+        "total": 10.25
+      },
+      "ranking": {
+        "rank": 22,
+        "percentile": 12.5
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Tagged as 'clean'"
+        ]
+      }
+    },
+    {
+      "repo_name": "rick_pheonix_gemini_v1",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 10.0,
+        "maturity": 10.0,
+        "documentation": 50,
+        "total": 9.0
+      },
+      "ranking": {
+        "rank": 23,
+        "percentile": 8.33
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    },
+    {
+      "repo_name": "rbotzilla_n_team",
+      "scores": {
+        "documented_performance": 0.0,
+        "code_quality": 0.0,
+        "feature_completeness": 0.0,
+        "maturity": 10.0,
+        "documentation": 50,
+        "total": 6.5
+      },
+      "ranking": {
+        "rank": 24,
+        "percentile": 4.17
+      },
+      "notes": {
+        "performance": [],
+        "quality": [],
+        "maturity": [
+          "Good documentation"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_count": 24,
+    "languages": {
+      "Python": 17
+    },
+    "archived_count": 0,
+    "private_count": 0,
+    "recent_count": 10,
+    "total_size_kb": 0,
+    "total_stars": 1,
+    "avg_age_days": 118.66666666666667
+  }
+}
